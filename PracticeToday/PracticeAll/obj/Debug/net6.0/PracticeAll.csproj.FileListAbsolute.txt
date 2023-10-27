@@ -1,0 +1,15 @@
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/bin/Debug/net6.0/PracticeAll
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/bin/Debug/net6.0/PracticeAll.deps.json
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/bin/Debug/net6.0/PracticeAll.runtimeconfig.json
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/bin/Debug/net6.0/PracticeAll.dll
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/bin/Debug/net6.0/PracticeAll.pdb
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/obj/Debug/net6.0/PracticeAll.csproj.AssemblyReference.cache
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/obj/Debug/net6.0/PracticeAll.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/obj/Debug/net6.0/PracticeAll.AssemblyInfoInputs.cache
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/obj/Debug/net6.0/PracticeAll.AssemblyInfo.cs
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/obj/Debug/net6.0/PracticeAll.csproj.CoreCompileInputs.cache
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/obj/Debug/net6.0/PracticeAll.dll
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/obj/Debug/net6.0/refint/PracticeAll.dll
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/obj/Debug/net6.0/PracticeAll.pdb
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/obj/Debug/net6.0/PracticeAll.genruntimeconfig.cache
+/Users/safiyevelnur/Desktop/AllToday/PracticeToday/PracticeAll/obj/Debug/net6.0/ref/PracticeAll.dll
